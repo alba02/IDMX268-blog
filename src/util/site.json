@@ -1,12 +1,12 @@
 {
   "meta": {
-    "title": "Foundation",
+    "title": "idmx268-alba02",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://foundation.stackrole.com",
-    "image": "/assets/stackrole.png",
-    "iconimage": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "description": "A personal blog by Alba Maldonado, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
+    "siteUrl": "idmx268-alba02.netlify.app",
+    "image": "/assets/fredrick-tendong-hvyepjyehdq-unsplash.jpg",
+    "iconimage": "/assets/icons8-settings-64.png",
+    "twitterUsername": ""
   },
   "ga": "UA-XXXXXXXXX-X"
 }
