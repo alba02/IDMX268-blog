@@ -3,7 +3,7 @@ template: blog-post
 title: The Importance of Web Core Vitals in Lighthouse
 slug: /.lighthouse-article
 date: 2022-02-26 10:11
-description: Google Lighthouse
+description: Google Lighthouse, CLS, FID, and LCP
 featuredImage: /assets/lighhouse-ex-1.png
 ---
   When a user uses your website, the first thing that they encounter is the speed of your website. For a user usually they don’t notice if it is really fast. They just think that’s how a normal website should work. However, what a user does pay attention to is the slowness. Once it loads slowly, they notice that the website is not acting how it is supposed to be. This is when it comes into problems with speed of it and the importance of speediness for the user. Although for you the website loads pretty fast, that doesn’t mean that the people loading your website from other parts of the world will have the same experience. This is where the Google Lighthouse tools come into play for your website. Google lighthouse generates a report on your website and measures the speed and contributes to having a high performance for your website. It lets you know if your website loading is successful or not. There are three things that Google Lighthouse measures for performance. These three things are important to your website in the way that it takes these three things and are the core of your website performance. The list of web core vitals are: LCP, FID, and CLS. These three web core vitals are important to your website because they rely on a good user experience, help measure your websites, and give them a score so you have an overall idea on how your website is doing.
