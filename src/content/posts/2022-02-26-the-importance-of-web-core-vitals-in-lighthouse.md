@@ -4,7 +4,7 @@ title: The Importance of Web Core Vitals in Lighthouse
 slug: /.lighthouse-article
 date: 2022-02-26 09:40
 description: Lighthouse web core vitals
-featuredImage: /assets/lighhouse-ex.png
+featuredImage: /assets/lighhouse-ex-1.png
 ---
 <!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
