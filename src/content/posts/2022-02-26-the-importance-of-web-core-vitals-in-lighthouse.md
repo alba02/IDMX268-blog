@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: The Importance of Web Core Vitals in Lighthouse
-slug: /.lighthouse-article
+slug: /lighthouse-article
 date: 2022-02-26 10:11
 description: Google Lighthouse, CLS, FID, and LCP
 featuredImage: /assets/lighhouse-ex-1.png
