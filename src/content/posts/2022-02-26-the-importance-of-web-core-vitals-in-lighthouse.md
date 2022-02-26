@@ -6,13 +6,13 @@ date: 2022-02-26 09:40
 description: Lighthouse web core vitals
 featuredImage: /assets/lighhouse-ex.png
 ---
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -51,9 +51,9 @@ featuredImage: /assets/lighhouse-ex.png
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -632,9 +632,9 @@ featuredImage: /assets/lighhouse-ex.png
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -660,7 +660,7 @@ featuredImage: /assets/lighhouse-ex.png
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:minor-bidi;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
@@ -672,6 +672,6 @@ Another thing that Lighthouse measures is when a user interacts with one of the 
 
 CLS also stands for Cumulative Layout Shift. In the helpful article by Philip Walton and Milica Mihajlija “Cumulative Layout Shift (CLS)” they mention the meaning of CLS.  “CLS is a measure of the largest burst of layout shift scores for every unexpected layout shift that occurs during the entire lifespan of a page.”  This means that when the user is using your webpage one of the elements can cause the website to shift unexpectedly and this could cause the user to be frustrated because they can lose there place to where they were or other things. As you can see this can cause problems for the user’s experience. Google Lighthouse measures this so that you can know the score of the CLS and see if it will cause problems for the user. A good score for this is a CLS score of 0.1 or less. Having a good score is important to the core values of your web because it ensures that the user of the webpage won’t encounter problems of any kind when encountering these layout shifts. As a user, I get annoyed when suddenly I lose my place, or an ad moves up suddenly when I try to click something, and I accidentally end up clicking on it. Using Lighthouse tools for these will guide you into making your webpage having a good user experience.
 
-            The importance of these web core vitals is important in lighthouse to see that you r website is working properly in those areas. With CLS, FID, and LCP you can see your score on lighthouse and see how each area of these is doing. This will help the overall experience of your page.
+       The importance of these web core vitals is important in lighthouse to see that you r website is working properly in those areas. With CLS, FID, and LCP you can see your score on lighthouse and see how each area of these is doing. This will help the overall experience of your page.
 
 <!--EndFragment-->
